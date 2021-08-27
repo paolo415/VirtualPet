@@ -1,7 +1,3 @@
-import processing.serial.*;
-import cc.arduino.*;
-Arduino arduino;
-
 public void setup() {
   size(400,400);
   background(40,100,205);
