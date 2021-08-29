@@ -1,4 +1,4 @@
-public void setup() {
+lpublic void setup() {
   size(400,400);
   background(40,100,205);
  
@@ -30,10 +30,10 @@ triangle(180, 167,180,137,215,167);
 
 fill(40,100,205);
 triangle(280,207,320,212,330,322);
-circle(20,208,95);
+ellipse(20,208,95,95);
 
 fill(0,0,0);
-circle(303,197,6);
+ellipse(303,197,6,6);
 
 fill(100,100,100);
 triangle(200,210,230,210,180,250);
