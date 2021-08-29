@@ -9,7 +9,7 @@ public void draw() {
   
 background(40,100,205);
 
-  noStroke();
+noStroke();
 fill(100,100,100);
 ellipse(200,200,210,70); //body
 triangle(270,174,290,218,330,195); //head
